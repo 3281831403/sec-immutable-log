@@ -1,0 +1,1 @@
+"""Segmented audit-log sealing package; the implementation lives in seal.py."""
